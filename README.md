@@ -173,7 +173,7 @@ Domain Events are representative of the history of events in the system and thes
 The Domain Event should have an Identity, Timestamp and Event value, at least
 
 
- ### Behaviour Elements
+### Behaviour Elements
  
  The Behavior elements are usually the Design patterns from the GOF, in particular, the Composite, Strategy pattern.
  
@@ -233,7 +233,7 @@ If two teams are working closely in the same application, on two separate bounde
 
 
 
- ### Customer Supplier Development Team
+### Customer Supplier Development Team
  
 The relationships between bounded contexts can be defined in terms of a direction; one end will be upstream and the other downstream. 
 
@@ -265,7 +265,7 @@ models, adapting to their interfaces can lead to a corruption of your model.
 
 In order to avoid corruption and protect your model from external influences you can create an isolation layer that contains an interface written in terms of your model. The interface adapts and translates to the interface of the other context. This isolation layer is known as an anti corruption layer.
 
-Theanti corruptionn layer’s translation map works in a similar manner to the adapter pattern in that it transforms the API of another context into an API that you can work against.
+The anti corruption layer’s translation map works in a similar manner to the adapter pattern in that it transforms the API of another context into an API that you can work against.
 
 
 ### Open Host Service
@@ -300,8 +300,8 @@ There are several Architectures that are in common use today and these are
 
 * A Layered Architecture
 * Event Driven Architecture
-* Microkernel Architecture
-* Microservices Architecture
+* Micro Kernel Architecture
+* Micro Services Architecture
 * Space-Based Architectures
 
 ## A Layered Architecture
@@ -326,9 +326,9 @@ layer control the transaction boundaries.
 ## Event Driven Architecture
 
 
-## Microkernel Architecture
+## Micro Kernel Architecture
 
-## Microservices Architecture
+## Micro Services Architecture
 
 ## Space-Based Architectures
 
