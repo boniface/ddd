@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2024-06-15T00:42:51.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Ea3PRMQUwV5jLvMakEzN" version="24.5.4" type="github">
+  <diagram name="Page-1" id="6F2AywWlDHgJCmH_EANi">
+    <mxGraphModel dx="1230" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U3ExdZH__QSkqC8PplZq-2" value="Payment BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-3" value="Config BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-4" value="News BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-5" value="Currency BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="283" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-6" value="Tickets BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-7" value="Transport BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="457" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-8" value="Cleaning BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="142" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-9" value="Labour BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="219" y="456" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-10" value="Users BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-11" value="Government BC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-12" value="Council&amp;nbsp;&lt;div&gt;Services&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U3ExdZH__QSkqC8PplZq-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;BOUNDED CONTEXT FOR SUPPER APP&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="470" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
